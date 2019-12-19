@@ -1,0 +1,16 @@
+heading {
+  font-size: 3em;
+  font-family: 'Lakki Reddy', cursive;
+  color: white;
+}
+
+body { 
+  background-color: lavender;
+  background-image: url(https://wallpaperaccess.com/full/404571.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  color: white;
+  font-size: 1em;
+}
